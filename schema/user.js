@@ -15,6 +15,7 @@ const joi = require('joi');
  * ref 两者相同
  * not 排除项的意思
  * concat用于合并两条验证规则
+ * yanzhengguize
  */
 
 // 定义用户名和密码的验证规则
